@@ -1,7 +1,7 @@
 # SIGMA: A Dataset for Text-to-Code Semantic Parsing with Statistical Analysis
 
 
-To download the dataset please use this link: [SIGMA dataset](https://drive.google.com/file/d/1BQOnCpQVgof2Ji4uS8RhiJcjWS7UC4xc/view?usp=share_link).
+To download the dataset please use this link: [SIGMA dataset](https://drive.google.com/uc?export=download&id=1BQOnCpQVgof2Ji4uS8RhiJcjWS7UC4xc).
 
 It contain: 
 1. train.json (5200 questions with correspond Python label codes)
